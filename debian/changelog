@@ -1,5 +1,5 @@
-windows-binaries (0.1-1) unstable; urgency=low
+windows-binaries (0.1-1kali0) kali; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release 
 
  -- Devon Kearns <dookie@kali.org>  Mon, 11 Feb 2013 14:29:30 -0700
