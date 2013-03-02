@@ -1,5 +1,5 @@
 Source: windows-binaries
-Section: utils
+Section: non-free/utils
 Priority: extra
 Maintainer: Devon Kearns <dookie@kali.org>
 Build-Depends: debhelper (>= 8.0.0)
