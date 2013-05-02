@@ -1,0 +1,7 @@
+*.exe usr/share/windows-binaries/
+*.txt usr/share/windows-binaries/
+enumplus usr/share/windows-binaries/
+fport usr/share/windows-binaries/
+mbenum usr/share/windows-binaries/
+nbtenum usr/share/windows-binaries/
+
