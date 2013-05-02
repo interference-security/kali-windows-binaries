@@ -1,3 +1,9 @@
+windows-binaries (0.2-1kali0) kali; urgency=low
+
+  * Added hyperion
+
+ -- Devon Kearns <dookie@kali.org>  Thu, 02 May 2013 07:12:24 -0600
+
 windows-binaries (0.1-1kali1) kali; urgency=low
 
   * Moved to non-free
