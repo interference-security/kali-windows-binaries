@@ -1,3 +1,9 @@
+windows-binaries (0.5-0kali0) kali; urgency=low
+
+  * Updated the pwdump binary
+
+ -- Devon Kearns <dookie@kali.org>  Tue, 26 May 2015 10:52:57 -0600
+
 windows-binaries (0.4-0kali1) kali; urgency=low
 
   * Incorporated fgdump (Closes: 0001149)
